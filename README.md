@@ -4,7 +4,7 @@ This project looks at employee attrition / reduction in staff numbers and invest
 
 
 ### Screenshot of Dashboard without Filters applied:
-7 Visualisations including:
+#### 7 Visualisations including:
 - KPIs
 - Attrition by Gender
 - Department Wise Attrition/ Attrition by Department
