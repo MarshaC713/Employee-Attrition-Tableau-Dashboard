@@ -35,3 +35,14 @@ Filters can be applied via the education filter st the top of the dashboard or b
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
 <img src="https://media.giphy.com/media/5Q4h5wS4dDmvDeQJsS/giphy.gif" width="600" height="400"/></a>
 
+
+### Employee KPI's
+
+The first visualisation along the top of the dashboard, is a set of KPI's which examines: Employee Count, Atrrition Rate, Active Employee, and Average Age. All of which are susceptible to differences in the education level of employees as shown in the demo below.  In this demo, I used the Education filter at the top of the dashboard to filter for differing levels of education.
+
+Click play on the video below:
+
+https://user-images.githubusercontent.com/82414822/214703077-0dcdf7a4-f0d9-400c-9b07-e1d7f0e277b2.mov
+
+
+
