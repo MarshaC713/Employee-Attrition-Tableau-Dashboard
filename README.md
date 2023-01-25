@@ -40,9 +40,27 @@ Filters can be applied via the education filter st the top of the dashboard or b
 
 The first visualisation along the top of the dashboard, is a set of KPI's which examines: Employee Count, Atrrition Rate, Active Employee, and Average Age. All of which are susceptible to differences in the education level of employees as shown in the demo below.  In this demo, I used the Education filter at the top of the dashboard to filter for differing levels of education.
 
-Click play on the video below:
+Filtered to:
+- **All**: Employee Count = 1,470 , Attrition Count = 237 , Attrition Rate = 16.12% , Active Employees= 1,233 and Average Age = 37
+- **High School:**  Employee Count = 170 , Attrition Count = 31, Attrition Rate = 18.24% , Active Employees= 139 and Average Age = 32
+- **Associates Degree:**  Employee Count = 282, Attrition Count = 44, Attrition Rate = 15.60% , Active Employees= 238 and Average Age = 37
+- **Bachelor's Degree:**  Employee Count = 572, Attrition Count = 99, Attrition Rate = 17.31% , Active Employees= 473 and Average Age = 36
+- **Master's Degree:**  Employee Count = 398, Attrition Count = 58, Attrition Rate = 14.57% , Active Employees= 340 and Average Age = 39
+- **Doctoral Degree:**  Employee Count = 48, Attrition Count = 5, Attrition Rate = 10.42% , Active Employees= 43 and Average Age = 40
+
+From these KPI's we learn that: 
+- The highest grouping by education falls into the **Bachelor Degree** grouping, meaning that the majority of Employees are educated to at least Bachelor/Udergraduate degree level **(572 = 39%)**. The average age of this group is **36**.
+- The **lowest** number of employees hold a Doctoral degree (48 = 3.3%), the average age for this group is 40.
+- At 18.24%, Attrition rate is the highest among those educated to high school level only. 
+- At 10.42% attrition rate is the lowest among those educated to doctorate degree level.
+
+From this we can deduce that those with the highest level of education are being retained, and this group has an average age of 40. Those that are leaving/ being let go, are those educated to high school age only with an average age of 36.
+
+**Click play on the video below:**
 
 https://user-images.githubusercontent.com/82414822/214703077-0dcdf7a4-f0d9-400c-9b07-e1d7f0e277b2.mov
 
+
+### 
 
 
