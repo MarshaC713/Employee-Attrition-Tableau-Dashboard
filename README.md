@@ -70,8 +70,10 @@ Going back to the two groups, we identified,  those educated to high school leve
 As shown the group with the highest rate of attrition are educated to only high school level, with an average age of 32.  Filtering the lollipop visualisation below, we can see that this group is made up of mostly male.
 The group with the lowest attrition rate are educated to doctorate level, with an average age of 40 and are mostly female.
 
+**Click play on the video below:**
+
 https://user-images.githubusercontent.com/82414822/214717201-93e7471d-1a8d-452e-ba21-801006a0c4cb.mov
 
 
-**Click play on the video below:**
+
 
