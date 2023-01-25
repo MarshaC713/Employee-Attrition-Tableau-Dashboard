@@ -54,13 +54,24 @@ From these KPI's we learn that:
 - At 18.24%, Attrition rate is the highest among those educated to high school level only. 
 - At 10.42% attrition rate is the lowest among those educated to doctorate degree level.
 
-From this we can deduce that those with the highest level of education are being retained, and this group has an average age of 40. Those that are leaving/ being let go, are those educated to high school age only with an average age of 36.
+From this we can deduce that those with the highest level of education are being retained, and this group has an average age of 40. Those that are leaving/ being let go, are those educated to high school age only with an average age of 32.
 
 **Click play on the video below:**
 
 https://user-images.githubusercontent.com/82414822/214703077-0dcdf7a4-f0d9-400c-9b07-e1d7f0e277b2.mov
 
 
-### 
+### Attrition by Gender
 
+By taking a closer look at the other visualisations,  and filtering these,  we can build up a better picture of the type of employee being retained versus the type of employee being lost.
+<br> <br>
+Going back to the two groups, we identified,  those educated to high school level and those educated to doctoral level we can identify the genders of these groups by filtering the Attrition by Gender visualisation.  This visualisation is on the top right of the dashboard.
+
+As shown the group with the highest rate of attrition are educated to only high school level, with an average age of 32.  Filtering the lollipop visualisation below, we can see that this group is made up of mostly male.
+The group with the lowest attrition rate are educated to doctorate level, with an average age of 40 and are mostly female.
+
+https://user-images.githubusercontent.com/82414822/214717201-93e7471d-1a8d-452e-ba21-801006a0c4cb.mov
+
+
+**Click play on the video below:**
 
