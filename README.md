@@ -36,6 +36,10 @@ Filters can be applied via the education filter st the top of the dashboard or b
 <img src="https://media.giphy.com/media/5Q4h5wS4dDmvDeQJsS/giphy.gif" width="600" height="400"/></a>
 
 
+---
+
+
+
 ### Employee KPI's
 
 The first visualisation along the top of the dashboard, is a set of KPI's which examines: Employee Count, Atrrition Rate, Active Employee, and Average Age. All of which are susceptible to differences in the education level of employees as shown in the demo below.  In this demo, I used the Education filter at the top of the dashboard to filter for differing levels of education.
@@ -61,6 +65,12 @@ From this we can deduce that those with the highest level of education are being
 https://user-images.githubusercontent.com/82414822/214703077-0dcdf7a4-f0d9-400c-9b07-e1d7f0e277b2.mov
 
 
+
+---
+
+
+
+
 ### Attrition by Gender
 
 By taking a closer look at the other visualisations,  and filtering these,  we can build up a better picture of the type of employee being retained versus the type of employee being lost.
@@ -75,9 +85,15 @@ The group with the lowest attrition rate are educated to doctorate level, with a
 https://user-images.githubusercontent.com/82414822/214717201-93e7471d-1a8d-452e-ba21-801006a0c4cb.mov
 
 
+
+---
+
+
+
+
 ### Department Wise Attrition
 
-From the pie chart below we can see that the Research and Development (R&D) department has the *highest* attrition percentage of **56.12%** as depicted in green. Followed by the sales department, as represented in yellow,  with an attrition of **38.82%**.  The sales department as shown in pink, has the *lowest* attrition rate of **12%**.
+From the pie chart below we can see that the Research and Development **(R&D) department** has the *highest* attrition percentage of **56.12%** as depicted in green. Followed by the **sales department**, as represented in yellow,  with an attrition of **38.82%**.  The sales department as shown in pink, has the *lowest* attrition rate of **12%**.
 
 <img width="391" alt="Screenshot 2023-01-26 at 00 14 41" src="https://user-images.githubusercontent.com/82414822/214723627-fbe5d4dc-bf3a-40c1-8bd1-2ee96ec31357.png">
 
